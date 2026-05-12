@@ -1,10 +1,10 @@
 # sonya-testing
-For only Sonya learn platform
+For only Sonya learn platform!
 
 
 ---
 
-**Задача**
+## Задача
 
 1. Развернуть Docker, дать ему необходимые права, добавить в правильную группу пользователей
 1.1. Бегло ознакомиться с основными командами Docker:
