@@ -39,3 +39,5 @@ For only Sonya learn platform!
        - Смотреть конфиг Prometheus и задавать правильные лэйблы
        - Прописывать правильные лэйблы в самой Grafana
        - Здесь про Prometheus мои статьи, читаем на данном этапе [с 1 по 7](https://github.com/lamjob1993/linux-monitoring/tree/main/tasks/prometheus/beginning)
+       - Про настройку [Grafana](https://github.com/lamjob1993/linux-monitoring/tree/main/tasks/grafana)
+       - Что мониторит [Node Exporter](https://github.com/lamjob1993/linux-monitoring/tree/main/tasks/node-exporter) и зачем
