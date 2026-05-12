@@ -34,10 +34,10 @@ For only Sonya learn platform!
 10. Задания разложены по папкам, работай с этими папками
 11. Сделай форк этого репозитория и склонируй его к себе на Ubuntu
 12. По завершению всех заданий - должен быть рабочий мониторинг из трех дашбордов с рабочим автозапуском (хотя бы на Prometheus и Node Exporter), дашборды должны показывать всю информацию, а не 30/70% данных, особенно это касается Node Exporter
-    - Тут подсказка
-       - Смотреть в переменные Grafana
-       - Смотреть конфиг Prometheus и задавать правильные лэйблы
-       - Прописывать правильные лэйблы в самой Grafana
-       - Здесь про Prometheus мои статьи, читаем на данном этапе [с 1 по 7](https://github.com/lamjob1993/linux-monitoring/tree/main/tasks/prometheus/beginning)
+    - Тут подсказка:
+       - Смотри в переменные Grafana
+       - Смотри в конфиг Prometheus и задавай правильные лэйблы
+       - Прописывай правильные лэйблы в самой Grafana
+       - Здесь про Prometheus мои статьи, читаешь на данном этапе [с 1 по 7](https://github.com/lamjob1993/linux-monitoring/tree/main/tasks/prometheus/beginning)
        - Про настройку [Grafana](https://github.com/lamjob1993/linux-monitoring/tree/main/tasks/grafana)
        - Что мониторит [Node Exporter](https://github.com/lamjob1993/linux-monitoring/tree/main/tasks/node-exporter) и зачем
