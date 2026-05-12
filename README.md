@@ -8,11 +8,11 @@ For only Sonya learn platform!
 
 1. Развернуть Docker, дать ему необходимые права, добавить в правильную группу пользователей
 1.1. Бегло ознакомиться с основными командами Docker:
-        1. docker ps
-        2. docker ps -a
-        3. docker logs name_id_container
-        4. docker rm/rmi
-        5. docker run -d / -it
+                1. docker ps
+                2. docker ps -a
+                3. docker logs name_id_container
+                4. docker rm/rmi
+                5. docker run -d / -it
 2. Развернуть контейнер Grafana, пользоваться Hub Docker
 3. Написать Unit на автозапуск Node Exporter
         1. Разобораться с основными директивами юнита
